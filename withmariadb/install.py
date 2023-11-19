@@ -322,9 +322,9 @@ if __name__ == "__main__":
             print " "
         else:
             rHost = "127.0.0.1"
-            rPassword = generate()
+            rPassword = 'Bsk@4511'
             rServerID = 1
-            rAccesscode = generate(12)
+            rAccesscode = 'stream'
 
         rUsername = "user_iptvpro"
         rDatabase = "xtream_iptvpro"
